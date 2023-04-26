@@ -2,8 +2,7 @@
 
 <p id="description">hi every one:) I come with a new shopping app. you can see organic fruits with different categories in this app and buy whatever you want</p>
 
-<h2>Project Screenshots:</h2>
-![Screenshot_20230426-182106](https://user-images.githubusercontent.com/107408431/234707138-1f2da699-d267-427f-9d36-863d56cb7e3f.jpg)
+![Screenshot_20230426-182106](https://user-images.githubusercontent.com/107408431/234707454-54c2054c-00d6-4abe-9fd2-a6d5b2836a57.jpg)
 
 
 
