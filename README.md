@@ -1,16 +1,33 @@
-# niaz_shopping
+<h1 align="center" id="title">shopping app</h1>
 
-A new Flutter project.
+<p id="description">hi every one:) I come with a new shopping app. you can see organic fruits with different categories in this app and buy whatever you want</p>
 
-## Getting Started
+<h2>Project Screenshots:</h2>
 
-This project is a starting point for a Flutter application.
+<img src="file:///C:/Users/Pouya/OneDrive/Desktop/Screenshot_20230426-182106.jpg" alt="project-screenshot" width="400" height="400/">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="file:///C:/Users/Pouya/OneDrive/Desktop/Screenshot_20230426-182205.jpg" alt="project-screenshot" width="400" height="400/">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="file:///C:/Users/Pouya/OneDrive/Desktop/Screenshot_20230426-182227.jpg" alt="project-screenshot" width="400" height="400/">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Login
+*   SingUp
+*   Search Products
+*   Add to Basket
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Bloc
+*   Get\_it
+*   Shared\_Preferences
+*   Hive
