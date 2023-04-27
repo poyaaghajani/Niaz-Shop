@@ -3,7 +3,7 @@
 <p id="description">Hii every one :-) I come with a new shopping app. you can see organic fruits with different categories in this app and buy whatever you want</p>
 
  
-<h2>🧐 Features</h2>
+<h2>🦉 Features</h2>
 
 Here're some of the project's best features:
 
