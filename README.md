@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Niaz Shop</h1>
 
-<p id="description">I come with a new shopping app. you can see organic fruits with different categories in this app and buy whatever you want</p>
+<p id="description">Hii every one :-) I come with a new shopping app. you can see organic fruits with different categories in this app and buy whatever you want</p>
 
  
 <h2>🧐 Features</h2>
