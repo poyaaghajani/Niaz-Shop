@@ -32,14 +32,56 @@ Technologies used in the project:
 
 
 
+
+
 ![Screenshot_20230426-182205](https://user-images.githubusercontent.com/107408431/234793629-0777143e-b595-4971-a3a1-ad410e845b55.jpg)
+
+
+
+
+
 ![Screenshot_20230426-182227](https://user-images.githubusercontent.com/107408431/234793725-165245dd-4b63-4f18-af8b-896ed4ccb925.jpg)
+
+
+
+
+
 ![Screenshot_20230426-182300](https://user-images.githubusercontent.com/107408431/234793782-66ff965b-7e97-46fd-a036-6dc0e4a3f6f3.jpg)
+
+
+
+
+
 ![Screenshot_20230426-182424](https://user-images.githubusercontent.com/107408431/234793867-586936ba-c79b-4975-b4a2-34bf8bee31b1.jpg)
+
+
+
+
+
 ![Screenshot_20230426-231924](https://user-images.githubusercontent.com/107408431/234794012-5ce263b6-0a12-4721-b98c-eeb071edfb55.jpg)
+
+
+
+
+
 ![Screenshot_20230426-232050](https://user-images.githubusercontent.com/107408431/234890692-edb699b2-f15e-41f0-a358-005594240a1f.jpg)
+
+
+
+
+
 ![Screenshot_20230426-222345](https://user-images.githubusercontent.com/107408431/234794103-49a31304-1da7-4430-bd02-0ee65b45753b.jpg)
+
+
+
+
+
 ![Screenshot_20230426-231704](https://user-images.githubusercontent.com/107408431/234794687-babfa479-fdea-4b47-b98c-b59993fec8c3.jpg)
+
+
+
+
+
 ![Screenshot_20230426-231849](https://user-images.githubusercontent.com/107408431/234794740-e83dde5a-8bf2-4bc4-9867-ac9b8cb901b3.jpg)
 
 
