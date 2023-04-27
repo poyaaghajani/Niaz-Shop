@@ -1,18 +1,19 @@
-<h1 align="center" id="title">shopping app</h1>
+<h1 align="center" id="title">Niaz Shop</h1>
 
-<p id="description">hi every one:) I come with a new shopping app. you can see organic fruits with different categories in this app and buy whatever you want</p>
+<p id="description">I come with a new shopping app. you can see organic fruits with different categories in this app and buy whatever you want</p>
 
-![Screenshot_20230426-182106](https://user-images.githubusercontent.com/107408431/234707454-54c2054c-00d6-4abe-9fd2-a6d5b2836a57.jpg)
+<h2>Project Screenshots:</h2>
 
+<img src="![Screenshot_20230426-182106](https://user-images.githubusercontent.com/107408431/234707454-54c2054c-00d6-4abe-9fd2-a6d5b2836a57.jpg)" alt="project-screenshot" width="300" height="300/">
 
-
+  
   
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
 
-*   Login
 *   SingUp
+*   LogIn
 *   Search Products
 *   Add to Basket
 
@@ -23,6 +24,6 @@ Here're some of the project's best features:
 Technologies used in the project:
 
 *   Bloc
-*   Get\_it
-*   Shared\_Preferences
 *   Hive
+*   Get\_It
+*   Shared\_Prefrences
