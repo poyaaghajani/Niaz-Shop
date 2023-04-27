@@ -20,8 +20,13 @@ Technologies used in the project:
 
 *   Bloc
 *   Hive
-*   Get\_It
-*   Shared\_Prefrences
+*   Get\_it
+*   Shared\_preferences
+*   Dio
+*   Cached_network_image
+*   Shimmer
+*   Flutter_svg
+*   Flutter_typeahead
 
 ![Screenshot_20230426-182106](https://user-images.githubusercontent.com/107408431/234793535-ebe84348-82b4-4569-a43d-39f9870eb553.jpg)
 ![Screenshot_20230426-182205](https://user-images.githubusercontent.com/107408431/234793629-0777143e-b595-4971-a3a1-ad410e845b55.jpg)
