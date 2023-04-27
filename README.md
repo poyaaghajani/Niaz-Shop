@@ -30,6 +30,6 @@ Technologies used in the project:
 ![Screenshot_20230426-182424](https://user-images.githubusercontent.com/107408431/234793867-586936ba-c79b-4975-b4a2-34bf8bee31b1.jpg)
 ![Screenshot_20230426-231924](https://user-images.githubusercontent.com/107408431/234794012-5ce263b6-0a12-4721-b98c-eeb071edfb55.jpg)
 ![Screenshot_20230426-222345](https://user-images.githubusercontent.com/107408431/234794103-49a31304-1da7-4430-bd02-0ee65b45753b.jpg)
-![Screenshot_20230426-231704](https://user-images.githubusercontent.com/107408431/234794178-5cbe6b67-0a![Uploading Screenshot_20230426-231849.jpg…]()
-bd-4275-a382-dad7f8405342.jpg)
+
+
 
