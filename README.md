@@ -28,6 +28,8 @@ Technologies used in the project:
 *   Flutter_svg
 *   Flutter_typeahead
 
+<h3>🦖 ScreenShots</h3> 
+
 ![Screenshot_20230426-182106](https://user-images.githubusercontent.com/107408431/234793535-ebe84348-82b4-4569-a43d-39f9870eb553.jpg)
 
 
